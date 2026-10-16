@@ -7,7 +7,7 @@
        public/project_and_skills.jpeg
      ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b3d91,100:1f6feb&height=240&section=header&text=Deb%20Barman&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%26%20Tech%20Enthusiast&descSize=20&descAlignY=62&animation=fadeIn" alt="Deb Barman header" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0b3d91,100:1f6feb&height=240&section=header&text=Deb%20Barman&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%26%20Tech%20Enthusiast&descSize=20&descAlignY=62&animation=fadeIn" alt="Deb Barman header" /> -->
 
 <div align="center">
 
